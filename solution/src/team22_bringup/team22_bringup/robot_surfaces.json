@@ -1,0 +1,117 @@
+{
+  "source_sha256": "0e99d7d34ed7b4bd6aef0a0246c5d6f0e8d68b99a567a3e836f13cbdef1331e5",
+  "source": "tiangong_pro_v2.usd",
+  "surfaces": [
+    {
+      "link": "waist_yaw_link",
+      "usd_path": "/World/humanoid/body_yaw_link/collisions",
+      "source_vertices": 384535,
+      "sampled_vertices": 27521
+    },
+    {
+      "link": "shoulder_pitch_l_link",
+      "usd_path": "/World/humanoid/shoulder_pitch_l_link/collisions",
+      "source_vertices": 18250,
+      "sampled_vertices": 1939
+    },
+    {
+      "link": "shoulder_roll_l_link",
+      "usd_path": "/World/humanoid/shoulder_roll_l_link/collisions",
+      "source_vertices": 65614,
+      "sampled_vertices": 3850
+    },
+    {
+      "link": "shoulder_yaw_l_link",
+      "usd_path": "/World/humanoid/shoulder_yaw_l_link/collisions",
+      "source_vertices": 23529,
+      "sampled_vertices": 2415
+    },
+    {
+      "link": "elbow_pitch_l_link",
+      "usd_path": "/World/humanoid/elbow_pitch_l_link/collisions",
+      "source_vertices": 61273,
+      "sampled_vertices": 2903
+    },
+    {
+      "link": "elbow_yaw_l_link",
+      "usd_path": "/World/humanoid/elbow_yaw_l_link/collisions",
+      "source_vertices": 91270,
+      "sampled_vertices": 4735
+    },
+    {
+      "link": "wrist_pitch_l_link",
+      "usd_path": "/World/humanoid/wrist_pitch_l_link/collisions",
+      "source_vertices": 67480,
+      "sampled_vertices": 1827
+    },
+    {
+      "link": "wrist_roll_l_link",
+      "usd_path": "/World/humanoid/wrist_roll_l_link/collisions",
+      "source_vertices": 42820,
+      "sampled_vertices": 1995
+    },
+    {
+      "link": "shoulder_pitch_r_link",
+      "usd_path": "/World/humanoid/shoulder_pitch_r_link/collisions",
+      "source_vertices": 18229,
+      "sampled_vertices": 1942
+    },
+    {
+      "link": "shoulder_roll_r_link",
+      "usd_path": "/World/humanoid/shoulder_roll_r_link/collisions",
+      "source_vertices": 65752,
+      "sampled_vertices": 3847
+    },
+    {
+      "link": "shoulder_yaw_r_link",
+      "usd_path": "/World/humanoid/shoulder_yaw_r_link/collisions",
+      "source_vertices": 23524,
+      "sampled_vertices": 2411
+    },
+    {
+      "link": "elbow_pitch_r_link",
+      "usd_path": "/World/humanoid/elbow_pitch_r_link/collisions",
+      "source_vertices": 61256,
+      "sampled_vertices": 2907
+    },
+    {
+      "link": "elbow_yaw_r_link",
+      "usd_path": "/World/humanoid/elbow_yaw_r_link/collisions",
+      "source_vertices": 91343,
+      "sampled_vertices": 4737
+    },
+    {
+      "link": "wrist_pitch_r_link",
+      "usd_path": "/World/humanoid/wrist_pitch_r_link/collisions",
+      "source_vertices": 65340,
+      "sampled_vertices": 1821
+    },
+    {
+      "link": "wrist_roll_r_link",
+      "usd_path": "/World/humanoid/wrist_roll_r_link/collisions",
+      "source_vertices": 42768,
+      "sampled_vertices": 1994
+    },
+    {
+      "link": "head_yaw_link",
+      "usd_path": "/World/humanoid/head_yaw_link/collisions",
+      "source_vertices": 33082,
+      "sampled_vertices": 2323
+    },
+    {
+      "link": "head_pitch_link",
+      "usd_path": "/World/humanoid/head_pitch_link/collisions",
+      "source_vertices": 14758,
+      "sampled_vertices": 857
+    },
+    {
+      "link": "head_roll_link",
+      "usd_path": "/World/humanoid/head_roll_link/collisions",
+      "source_vertices": 104323,
+      "sampled_vertices": 6598
+    }
+  ],
+  "voxel_m": 0.003,
+  "method": "original collision-mesh vertices only; not complete solid collision geometry",
+  "missing": "finger links, legs and pelvis are not part of upper_body.urdf; no full-body self-collision claim"
+}

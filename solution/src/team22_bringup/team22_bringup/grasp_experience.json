@@ -1,0 +1,163 @@
+{
+  "gold_jar": {
+    "evidence": "learning-20261107-sort2-far-tray-ah",
+    "verified_transfers": 4,
+    "verified_lifts": 7,
+    "validated_phase": "placement",
+    "measured_lift_delta_m": [
+      -0.007256877128052508,
+      -0.0006562355882040391,
+      0.03426284529212103
+    ],
+    "last_stop_reason": "Официальная проверка подтвердила правильный лоток",
+    "observed_dimensions_mm": [
+      41.0,
+      36.8,
+      134.8
+    ],
+    "side": "right",
+    "yaw": 0.9,
+    "palm_roll": 0.0,
+    "pocket": [
+      0.035,
+      0.0,
+      0.134
+    ],
+    "terminal_seed": [
+      -0.22320959848944696,
+      -0.27296602297585326,
+      1.2283747271641026,
+      -1.0820323840076809,
+      -0.44043547311323417,
+      -0.7053980939898707,
+      -0.054556064010574085
+    ],
+    "height_adjustment": 0.0,
+    "approach_preshape": null,
+    "control": {
+      "close": [
+        0.25,
+        0.25,
+        0.25,
+        0.25,
+        0.1,
+        0.45
+      ],
+      "force": 0.3,
+      "speed": 0.25
+    },
+    "scope": "One recorded layout; must recheck IK, collisions, contact and cameras. Lift-only evidence does not validate transport."
+  },
+  "lotion": {
+    "evidence": "learning-20261107-lotion-vision-y",
+    "verified_transfers": 1,
+    "verified_lifts": 1,
+    "validated_phase": "placement",
+    "measured_lift_delta_m": [
+      -0.015132088071203087,
+      0.03193372622261714,
+      0.04236129340879766
+    ],
+    "last_stop_reason": "Официальная проверка подтвердила правильный лоток",
+    "observed_dimensions_mm": [
+      65.0,
+      23.7,
+      193.8
+    ],
+    "side": "right",
+    "yaw": -0.3,
+    "palm_roll": 0.0,
+    "pocket": [
+      0.055,
+      0.0,
+      0.14
+    ],
+    "terminal_seed": [
+      0.32212040181557083,
+      -0.21466064616201583,
+      -0.4362711916469905,
+      -1.2322306839940267,
+      -0.456667719761283,
+      -0.47192449047390167,
+      0.29878395044966366
+    ],
+    "height_adjustment": 0.024,
+    "approach_preshape": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.45
+    ],
+    "control": {
+      "close": [
+        0.25,
+        0.25,
+        0.25,
+        0.25,
+        0.1,
+        0.45
+      ],
+      "force": 0.3,
+      "speed": 0.25
+    },
+    "scope": "One recorded layout; must recheck IK, collisions, contact and cameras. Lift-only evidence does not validate transport."
+  },
+  "blue_jar": {
+    "evidence": "learning-20261107-blue-cached-al",
+    "verified_transfers": 0,
+    "verified_lifts": 1,
+    "validated_phase": "lift_only",
+    "measured_lift_delta_m": [
+      0.0052934638354985575,
+      -0.004071432899636573,
+      0.02252166902447046
+    ],
+    "last_stop_reason": "Защитная остановка: Нет измеримого приближения к цели за 15 секунд симуляции.",
+    "observed_dimensions_mm": [
+      48.7,
+      38.1,
+      97.8
+    ],
+    "side": "left",
+    "yaw": -0.9,
+    "palm_roll": 0.9,
+    "pocket": [
+      0.065,
+      -0.03,
+      0.14
+    ],
+    "terminal_seed": [
+      -0.05499382194291221,
+      -0.02165278132548921,
+      0.031361446486613605,
+      -1.0333707914196488,
+      -0.4987699057596301,
+      0.23023738402904964,
+      0.9134999175112766
+    ],
+    "height_adjustment": -0.012,
+    "approach_preshape": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.45
+    ],
+    "control": {
+      "close": [
+        0.25,
+        0.25,
+        0.25,
+        0.25,
+        0.1,
+        0.45
+      ],
+      "force": 0.3,
+      "speed": 0.25
+    },
+    "scope": "One recorded layout; must recheck IK, collisions, contact and cameras. Lift-only evidence does not validate transport."
+  }
+}
